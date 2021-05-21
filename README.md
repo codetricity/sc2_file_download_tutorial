@@ -22,3 +22,21 @@ IP address of the SC2 cannot be changed.
 ## Videos
 
 * [Flutter 2 Tutorial for Windows Desktop - Download and Save to Pictures Folder: Introduction ](https://youtu.be/8ZO3waTBCW0) - 4:44
+
+## Learning Objectives
+
+### Overall
+
+* save images from network to local files with built-in Dart File
+* create directory for file if path does not exist
+* get images from network as bytes with `http`
+* find local directory structure with `path_provider`
+
+### RICOH THETA Specific
+
+* list files on camera
+* parse file information to get URI for each image file
+
+## App Architecture
+
+![app architecture](docs/app_architecture.png)
