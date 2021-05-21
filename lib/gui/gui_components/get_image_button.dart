@@ -30,8 +30,9 @@ class GetImageButton extends StatelessWidget {
         // find windows local storage directory
         String picturePath = await getPicturesPath();
         print('picture path is $picturePath');
-        var urlList = GetUrlList.picsum();
-        print(urlList);
+        var urlList = await GetUrlList.theta();
+        // var urlList = GetUrlList.picsum();
+        // print(urlList);
         downloadImages(urlList, updateStatus);
       },
     );
