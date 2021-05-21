@@ -10,6 +10,15 @@ from the RICOH THETA or other network source is isolated into a separate class m
 It is easy to switch between code for the Lorem Picsum free image site and
 the RICOH THETA.
 
+![sc2 screenshot](docs/sc2_image_screenshot.png)
+
+The SC2 images are downloaded from the RICOH THETA SC2 using 2.4 GHz Wi-Fi. To
+connect to the SC2, the Windows 10 computer connects to the SC2 as if it were a
+hotspot.  The Windows computer should have two network connections.  The SC2
+is always at 192.168.1.1.  If your router is at the same IP address, you must
+disconnect from the Internet or change the IP address of your router. The
+IP address of the SC2 cannot be changed.
+
 ## Videos
 
 * [Flutter 2 Tutorial for Windows Desktop - Download and Save to Pictures Folder: Introduction ](https://youtu.be/8ZO3waTBCW0) - 4:44
