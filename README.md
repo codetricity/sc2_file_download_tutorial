@@ -22,6 +22,8 @@ IP address of the SC2 cannot be changed.
 ## Videos
 
 * [Flutter 2 Tutorial for Windows Desktop - Download and Save to Pictures Folder: Introduction ](https://youtu.be/8ZO3waTBCW0) - 4:44
+* [Flutter 2.2 Expanded Widgets to Control Layout](https://youtu.be/egOhYUWM2Xk) - 7:48
+* [Flutter State Management with Provider](https://youtu.be/izjREm1-pBg)
 
 ## Learning Objectives
 
